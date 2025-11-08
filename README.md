@@ -1,18 +1,18 @@
-# oga_shine
+# Oga-Shine
 I interpret the “Roadside shoe repairs” as a valuable service or system that operates daily, but has remained invisible because it lacks a formal structure and a clear name. It is the hidden job to be done enveloped within a common, informal activity.
 OGA-SHINE: On-The-Go Shoe Fixing Service
 
-## Product Overview
+## 1.) Product Overview
 
 OGA-SHINE is a Product Management concept that formalizes, brands, and packages the common, yet unstructured, activity of roadside shoe repair into a proactive, predictable, and reliable "On-The-Spot Shoe Rescue Service."
 
-## What does the product do?
+## 2.) What does the product do?
 
 OGA-SHINE transforms the informal, uncertain activity of street-side shoe mending into a reliable, structured, and branded service. It does this by deploying uniformed service providers equipped with professional tools and a standardized menu of services to high-traffic areas in Nigeria.
 
 It serves as an immediate, on-the-go solution for footwear maintenance and emergencies.
 
-## Why does it matter? (It's Value Proposition)
+## 3.) Why does it matter? (It's Value Proposition)
 
 OGA-SHINE directly addresses the high stress and unpredictability associated with Damaged Shoe Emergencies.
 Unexpected incidents like broken heels, severe mud splatters, or scuff marks that occur moments before an important meeting or event.
@@ -22,10 +22,46 @@ Unexpected incidents like broken heels, severe mud splatters, or scuff marks tha
 | Stress & Confidence Loss: Unexpected shoe damage ruins presentations and causes distress. | Confidence Restoration: A quick, professional fix restores the customer's self-assurance and ability to focus on their day. |
 | Haggling & Price Uncertainty: Time wasted negotiating a price.	 | Trust & Transparency: A clear, upfront "5-Minute Shoe Rescue Price List." |
 
-## Who It’s For (Target Audience)
+## 4.) Who It’s For (Target Audience)
 
 OGA-SHINE is designed for individuals who value time, reliability, and maintaining a professional appearance while on the move.
 
 * Commuters and Office Workers: Professionals who need an immediate fix to remain presentable before meetings.
 * Students: Those needing a quick, cost-effective solution for daily maintenance.
 * The Prepared: Any individual who considers their footwear an essential part of their presentation and requires guaranteed, fast service.
+
+## 5.) Key Features & Framework
+
+Since OGA-SHINE is a service-based product, its "technology" lies in its operational framework and professional tools.
+
+### i. The Branded Kit: "The Oga-Shine Kit" (The Feature)
+
+This professional, mobile kit is the primary tool used to deliver the service.
+
+    Professional Tools: Contains different colored polishes, soft cloths, specialized hard-bristle brushes for mud, pliers, industrial-grade glue, and water-resistant spray.
+
+    Inventory Management: The Kit acts as a standardized inventory to ensure consistent quality across all service points.
+
+### ii. Service Tiers (The Framework)
+
+The service is delivered through packaged, standardized solutions to ensure speed and clarity:
+| Service Tier	 | Focus Problem	 | Solution Provided |
+| :--- | :--- | :--- |
+| The Quick Fix	 | Need for immediate presentability | R2-minute dry brush, wipe, and polish. |
+| The Rain Rescue	| Mud or water damage | Special cleaning, blow-drying, polishing, and protective spray |
+| The SOS Fix	 | Structural damage (broken heels, detached soles) | Immediate, reliable structural repair to avert a disaster |
+
+### iii. Enhanced Experience Features
+
+ * "The Akpoti" (The Dedicated Stool): A clean, dedicated stool that transforms the customer's experience from "waiting" to "being cared for," elevating the perceived value of the service.
+
+* Fixed Pricing: Transparent, non-negotiable pricing structure visible on the Kit.
+
+## 6.) Artifacts and Workflow
+
+The conceptual workflow and design thinking for OGA-SHINE are detailed in the following external links:
+| Artifact Type	 | Description | Link |
+| :--- | :--- | :--- |
+| Workflow Diagram (Figma Board) | The overall workflow showing the service process.  Focus on the OGA-SHINE section | [Row 1 Data C](https://www.google.com/search?q=https://www.figma.com/board/rKx6C72MKoWyx6C7nIfWpN/Untitled%3Fnode-id%3D0-1%26t%3DugealjchmXNxXug8-1) |
+| Wireframing (Figma Design)	 | Mid-fidelity wireframes related to the service concept | [Row 2 Data C](https://www.google.com/search?q=https://www.figma.com/design/IFQxJEVNNeLnrvM5tC1a30/MIDFI-WIREFRAMING%3Fnode-id%3D55-126%26t%3DDP2jvpSJ7EJK6xpr-1) |
+	
