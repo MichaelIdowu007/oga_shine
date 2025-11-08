@@ -1,4 +1,26 @@
-
+```
+[User Mobile App (React Native)] 
+        | 
+        | (HTTPS & WebSockets) 
+        | 
+[Cloudflare CDN & DNS] 
+        |
+        v 
+[Load Balancer] -> [API Gateway / Reverse Proxy]
+        | 
+        |-> [Auth Service] -> [User DB (PostgreSQL)] 
+        |
+        |-> [Service Booking Service] -> [Booking DB (PostgreSQL)] 
+        | 
+        |-> [Real-time Location Service (Node.js/WebSockets)] -> [Redis (Live Sessions)] 
+        | 
+        |-> [Payment Service] -> [Communicates with Paystack/Opay] 
+        |
+        |-> [Notification Service] -> [Queues in Redis] -> [Twilio (SMS)] 
+        | 
+        v 
+[External Services: Google Maps, Paystack, Twilio, AWS S3]
+```
 
 # 1.) Frontend Architecture
 
