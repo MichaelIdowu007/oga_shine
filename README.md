@@ -22,4 +22,10 @@ Unexpected incidents like broken heels, severe mud splatters, or scuff marks tha
 | Stress & Confidence Loss: Unexpected shoe damage ruins presentations and causes distress. | Confidence Restoration: A quick, professional fix restores the customer's self-assurance and ability to focus on their day. |
 | Haggling & Price Uncertainty: Time wasted negotiating a price.	 | Trust & Transparency: A clear, upfront "5-Minute Shoe Rescue Price List." |
 
+## Who It’s For (Target Audience)
 
+OGA-SHINE is designed for individuals who value time, reliability, and maintaining a professional appearance while on the move.
+
+* Commuters and Office Workers: Professionals who need an immediate fix to remain presentable before meetings.
+* Students: Those needing a quick, cost-effective solution for daily maintenance.
+* The Prepared: Any individual who considers their footwear an essential part of their presentation and requires guaranteed, fast service.
