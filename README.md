@@ -62,6 +62,6 @@ The service is delivered through packaged, standardized solutions to ensure spee
 The conceptual workflow and design thinking for OGA-SHINE are detailed in the following external links:
 | Artifact Type	 | Description | Link |
 | :--- | :--- | :--- |
-| Workflow Diagram (Figma Board) | The overall workflow showing the service process.  Focus on the OGA-SHINE section | [Row 1 Data C](https://www.google.com/search?q=https://www.figma.com/board/rKx6C72MKoWyx6C7nIfWpN/Untitled%3Fnode-id%3D0-1%26t%3DugealjchmXNxXug8-1) |
-| Wireframing (Figma Design)	 | Mid-fidelity wireframes related to the service concept | [Row 2 Data C](https://www.google.com/search?q=https://www.figma.com/design/IFQxJEVNNeLnrvM5tC1a30/MIDFI-WIREFRAMING%3Fnode-id%3D55-126%26t%3DDP2jvpSJ7EJK6xpr-1) |
+| Workflow Diagram (Figma Board) | The overall workflow showing the service process.  Focus on the OGA-SHINE section | https://www.figma.com/board/Lv5lXguzlJwd1GJFO2ghdb/Untitled?node-id=1-10&t=56aYbCArp0f4BZvt-1 |
+| Wireframing (Figma Design)	 | Mid-fidelity wireframes related to the service concept |https://www.figma.com/design/IFQxJEVNNeLnrvM5tC1a30/MIDFI-WIREFRAMING?node-id=0-1&t=JJYgssib8J4biX9k-1  |
 	
